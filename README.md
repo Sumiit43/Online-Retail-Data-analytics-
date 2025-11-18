@@ -1,5 +1,4 @@
 # Online-Retail-Data-Analytics-Project-with-Python-SQL-and-Power-BI
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Introduction
 
